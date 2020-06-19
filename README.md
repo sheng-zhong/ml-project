@@ -15,7 +15,7 @@ image-handel文件夹内是检测行人属性的模型（从街头到行人属�
 
 输出:
 
-
+![image](https://github.com/sheng-zhong/ml-project/blob/master/image-handel/detected_frame/detected-example.png)
 
 for ml-trade:
     describe: predict BTC price every hour dataset flow from exchange house
