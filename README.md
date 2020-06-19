@@ -1,7 +1,7 @@
 # ml-project
 机器学习项目
 
-image-handel文件夹内是检测行人属性的模型（从街头到行人属性数据库）:
+image-handel文件夹内是检测行人属性的工程代码（从街头到行人属性数据库）:
 
     输入：包含行人图片的图像
 
@@ -13,12 +13,12 @@ image-handel文件夹内是检测行人属性的模型（从街头到行人属�
 
 ![image](https://github.com/sheng-zhong/ml-project/blob/master/image-handel/test_samples/example.png)
 
+（图片来源：百度街拍，如有侵权请提issue联系我）
+
 输出:
 
 ![image](https://github.com/sheng-zhong/ml-project/blob/master/image-handel/detected_frame/detected-example.png)
 
-for ml-trade:
-    describe: predict BTC price every hour dataset flow from exchange house
-    input: every hours BTC information (val highest price per hour ...)
-    output: highest price next hour
-    include algorithm: randomforest, xgboost
+
+
+ml-trade文件夹中是想将机器学习的方法用于数字货币/股票的量化交易
